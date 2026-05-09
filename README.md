@@ -20,14 +20,14 @@ This project helps users manage daily expenses, track spending habits, search ex
 ---
 
 #  Technologies Used
-
+```
 - C#
 - .NET 8.0
 - Console Application
 - File Handling
 - LINQ
 - Object Oriented Programming
-
+```
 ---
 
 #  Project Structure
@@ -44,8 +44,8 @@ SmartExpenseTracker/
 ---
 ##  How It Works
 
-The system allows users to:
-
+> The system allows users to:
+```
 - Add daily expenses  
 - Store title, category, amount, and date  
 - View all records  
@@ -53,7 +53,7 @@ The system allows users to:
 - Generate monthly total expense report  
 - Save all data in text file  
 - Load previous saved data automatically  
-
+```
 ---
 
 ##  Installation & Run
