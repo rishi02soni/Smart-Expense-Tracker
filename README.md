@@ -173,7 +173,7 @@ This project is excellent for:
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - SQL Database Integration  
 - ASP.NET Web Version  
@@ -184,7 +184,7 @@ This project is excellent for:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Anyone can improve this project by adding:
 
@@ -195,15 +195,15 @@ Anyone can improve this project by adding:
 
 ---
 
-## 📄 License
+##  License
 
 Free to use for learning and personal projects.
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
-Made with ❤️ using C# and .NET
+Made with  using C# and .NET
 
 ---
 
