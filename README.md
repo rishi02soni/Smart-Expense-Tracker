@@ -30,7 +30,7 @@ This project helps users manage daily expenses, track spending habits, search ex
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```
 SmartExpenseTracker/
