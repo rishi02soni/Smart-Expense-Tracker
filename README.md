@@ -19,7 +19,7 @@ This project helps users manage daily expenses, track spending habits, search ex
 ```
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - C#
 - .NET 8.0
