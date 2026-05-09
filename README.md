@@ -174,14 +174,14 @@ This project is excellent for:
 ---
 
 ##  Future Improvements
-
+```
 - SQL Database Integration  
 - ASP.NET Web Version  
 - Login Authentication  
 - Expense Charts  
 - Export PDF Reports  
 - Mobile App Version  
-
+```
 ---
 
 ##  Contributing
@@ -220,11 +220,11 @@ If you like this project:
 ##  Final Note
 
 This project demonstrates real-world coding skills like:
-
-- ✔ Logic Building  
-- ✔ OOP  
-- ✔ LINQ  
-- ✔ File Handling  
-- ✔ Clean Code Structure  
-
+```
+✔ Logic Building  
+✔ OOP  
+✔ LINQ  
+✔ File Handling  
+✔ Clean Code Structure  
+```
 Perfect for internships and placements.
