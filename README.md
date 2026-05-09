@@ -42,7 +42,7 @@ SmartExpenseTracker/
 │── expenses.txt   (Auto Generated)
 ```
 ---
-## 📌 How It Works
+##  How It Works
 
 The system allows users to:
 
@@ -56,16 +56,16 @@ The system allows users to:
 
 ---
 
-## ▶️ Installation & Run
+##  Installation & Run
 
-> 1️⃣ Clone Repository
+>  Clone Repository
 
 ```
 git clone https://github.com/yourusername/SmartExpenseTracker.git
 cd SmartExpenseTracker
 ```
 
-> 2️⃣ Run Project
+>  Run Project
 
 ```
 dotnet run
@@ -73,7 +73,7 @@ dotnet run
 
 ---
 
-## 💻 Menu Interface
+##  Menu Interface
 
 ```
 ==== SMART EXPENSE TRACKER ====
@@ -117,21 +117,21 @@ Month 5 : ₹850
 
 ##  OOP Concepts Used
 
-### ✅ Encapsulation
+###  Encapsulation
 
 Data stored using properties inside `Expense.cs`
 
-### ✅ Classes & Objects
+###  Classes & Objects
 
 - Expense  
 - ExpenseManager  
 - FileManager  
 
-### ✅ Constructors
+###  Constructors
 
 Used for initializing expense objects.
 
-### ✅ Abstraction
+###  Abstraction
 
 Manager handles complete business logic.
 
@@ -148,7 +148,7 @@ expenses.Max(...)
 
 ---
 
-## 📂 File Handling Used
+##  File Handling Used
 
 Data stored in:
 
@@ -160,7 +160,7 @@ Auto loads every time project starts.
 
 ---
 
-## 🔥 Why This Project?
+##  Why This Project?
 
 This project is excellent for:
 
