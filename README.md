@@ -1,4 +1,4 @@
-#  Smart Expense Tracker (.NET C# Console Project)
+#  Smart Expense Tracker 
 
 A powerful and beginner-friendly **Expense Management System** built using **C# and .NET**.  
 This project helps users manage daily expenses, track spending habits, search expenses by category, generate monthly reports, and save records permanently using file handling.
